@@ -1,1 +1,5 @@
-ereeGithub
+# TODO list
+A simple app to manage your daily task.
+It uses HTML5 and CSS3
+## Features
+* List of daily task
